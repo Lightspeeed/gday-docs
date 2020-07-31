@@ -1,1 +1,3 @@
-# gday-docs
+# Headline
+
+> An awesome project.
